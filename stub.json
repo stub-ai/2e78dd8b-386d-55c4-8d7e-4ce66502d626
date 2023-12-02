@@ -1,1 +1,1 @@
-{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"Create a simple game for iOS using Swift.","md5":"017ecfb726bdcdcb93dcaeb8f020a70a"}]}
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"Create a simple game for iOS using Swift.","md5":"017ecfb726bdcdcb93dcaeb8f020a70a"},{"prompt":"Create a mobile game for iOS similar to the Tank 1990 game from Nintendo.","md5":"686b53a8667d7640a77f05e227884049"}]}
